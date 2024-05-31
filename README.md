@@ -1,6 +1,6 @@
 # My Code Sample from Cod Mountain Fish Co. Project
 
-This repository contains a code sample from my current work project where I am working as a freelance full stack software developer. I am developing a web application for Cod Mountain Fish Co., a fishing charter company.
+This repository contains code samples from my current work project where I am working as a freelance full stack software developer. I am developing a web application for Cod Mountain Fish Co., a fishing charter company. I'm using Javascript, React, and Tailwind CSS for the frontend and Python, Flask, MongoDB for the backend.
 
 ##  Project Description
 
