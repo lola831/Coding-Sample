@@ -19,5 +19,5 @@ Depending on the screen size, a sidebar will appear to the right of the calendar
 ## Demo
 While the web app is still in progress, you can view the demo site [here](https://cod-mountain.onrender.com/).
 
-![Uploading Screen Shot 2024-05-13 at 9.43.01 AM.png…]()
+<img width="1440" alt="Screen Shot 2024-05-13 at 9 43 01 AM" src="https://github.com/lola831/Coding-Sample/assets/110120745/89755bdc-d6cb-4e13-9765-1f9cf4bbb183">
 
